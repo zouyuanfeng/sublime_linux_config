@@ -1,0 +1,10 @@
+{
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"word_wrap": true
+}

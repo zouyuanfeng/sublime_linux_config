@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CSS3_Syntax",
+		"Gradle_Language",
+		"Groovy Snippets",
+		"HTML Compressor",
+		"HTMLBeautify",
+		"Jade",
+		"jQuery",
+		"jQueryDocs",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"Stylus"
+	]
+}
